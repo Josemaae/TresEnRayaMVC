@@ -12,7 +12,7 @@ public class Juego {
 //	Posición de cada ficha de cada jugador (innecesario)
 	
 	private int numeroJugadores;
-	private boolean tipoFicha;
+	private Valor tipoFicha;
 	private int numeroDeFichas;
 	private Tablero tablero;
 }
