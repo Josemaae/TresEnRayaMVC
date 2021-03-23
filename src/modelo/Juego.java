@@ -11,8 +11,8 @@ public class Juego {
 //	Casilla (Tablero) sabemos si está ocupada, o no, por alguna ficha
 //	Posición de cada ficha de cada jugador (innecesario)
 	
-	private int numeroJugadores;
+	private int numeroJugadores=2;
 	private Valor tipoFicha;
-	private int numeroDeFichas;
+	private int numeroDeFichas=3;
 	private Tablero tablero;
 }
